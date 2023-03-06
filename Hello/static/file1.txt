@@ -1,0 +1,2 @@
+This is a static file.
+2nd line of static line.
